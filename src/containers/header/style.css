@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 75px;
+    background-color: #A9DAED;
+    padding: 0 0 0 30px;
+}
+.tilte-name {
+    height: 50px;
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+li {
+    width: 100px;
+    height: 45px;
+    padding-top: 30px;
+    text-align: center;
+}
+li:hover {
+    background-color: #113264;
+    color: white;
+}

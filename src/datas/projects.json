@@ -1,0 +1,23 @@
+[
+    {
+        "id":"1",
+        "name":"",
+        "cover":"",
+        "description":"",
+        "skills": ["Javascript", "Node.js"]
+    },
+    {
+        "id":"2",
+        "name":"Kasa",
+        "cover":"",
+        "description":"",
+        "skills": ["React", "Vite" ]
+    },
+    {
+        "id":"3",
+        "name":"",
+        "cover":"",
+        "description":"",
+        "tools": ["HTML", "Sass"]
+    }
+]
