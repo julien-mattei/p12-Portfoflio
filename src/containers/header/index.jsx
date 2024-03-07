@@ -6,12 +6,12 @@ function Header () {
         <div className='header'>
             <div className='title-name'>Julien Matteï</div>
             <nav>
-                <ul>
-                    <li><a href="#about-me" className="link-nav">About me</a></li>
-                    <li><a href="#works" className="link-nav">My Works</a></li>
-                    <li><a href="#skills" className="link-nav">My Skills</a></li>
-                    <li>Contact me</li>
-                </ul>
+                
+                <a href="#about-me" className="link-nav">About me</a>
+                <a href="#works" className="link-nav">My Works</a>
+                <a href="#skills" className="link-nav">My Skills</a>
+                <a href="" className="link-nav">Contact me</a>
+                
             </nav> 
         </div>
     </>

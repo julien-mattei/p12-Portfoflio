@@ -9,18 +9,18 @@
 .tilte-name {
     height: 50px;
 }
-nav ul {
+nav {
     display: flex;
     list-style-type: none;
     align-items: center;
+    gap: 20px;
 }
-li {
-    width: 100px;
-    height: 45px;
-    padding-top: 30px;
-    text-align: center;
+.link-nav {
+    text-decoration: none;
+    padding: 35px 15px;
+    color: black;
 }
-li:hover, .link-nav:hover{
+.link-nav:hover {
     background-color: #0d60c8;
     color: white;
 }

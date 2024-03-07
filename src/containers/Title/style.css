@@ -24,12 +24,13 @@ h1 {
     gap: 15px;
 }
 .link-title {
+    text-decoration: none;
     color:#1C2024;
-  width: 155px;
-  background-color: #A9DAED;
-  text-align: center;
-  padding: 10px 0;
-  border-radius: 50px;
+    width: 155px;
+    background-color: #A9DAED;
+    text-align: center;
+    padding: 10px 0;
+    border-radius: 50px;
 }
 .link-title:hover {
     background-color: #0d60c8;

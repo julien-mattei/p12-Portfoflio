@@ -1,23 +1,16 @@
 [
     {
         "id":"1",
-        "name":"",
+        "name":"Portfolio Sophie Bluel Architect",
         "cover":"",
-        "description":"",
+        "description":"Développement du portfolio de Sophie Bluel, une architecte, sous Javascript avec des appels API avec Node.js" ,
         "skills": ["Javascript", "Node.js"]
     },
     {
         "id":"2",
         "name":"Kasa",
         "cover":"",
-        "description":"",
-        "skills": ["React", "Vite" ]
-    },
-    {
-        "id":"3",
-        "name":"",
-        "cover":"",
-        "description":"",
-        "tools": ["HTML", "Sass"]
+        "description":"Développement d'un site de location immobilière sous Vite+React",
+        "skills": ["React", "Vite", "Saas"]
     }
 ]
