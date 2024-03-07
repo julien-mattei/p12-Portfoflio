@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom'
+import logo from '../../assets/image/logo.webp'
 import './style.css'
 
 function Header () {
@@ -7,15 +7,13 @@ function Header () {
             <div className='title-name'>Julien Matteï</div>
             <nav>
                 <ul>
-                    <li>About me</li>
-                    <li>My Works</li>
-                    <li>My Skills</li>
+                    <li><a href="#about-me" className="link-nav">About me</a></li>
+                    <li><a href="#works" className="link-nav">My Works</a></li>
+                    <li><a href="#skills" className="link-nav">My Skills</a></li>
                     <li>Contact me</li>
                 </ul>
             </nav> 
         </div>
-    
-    
     </>
 }
 

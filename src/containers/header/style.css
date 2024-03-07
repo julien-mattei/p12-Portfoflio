@@ -20,7 +20,7 @@ li {
     padding-top: 30px;
     text-align: center;
 }
-li:hover {
-    background-color: #113264;
+li:hover, .link-nav:hover{
+    background-color: #0d60c8;
     color: white;
 }

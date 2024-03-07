@@ -3,7 +3,7 @@ import picture from '../../assets/image/julien-mattei.webp'
 
 function AboutMe () {
     return <div className='about-me'>
-        <h2>About me</h2>
+        <h2 id="about-me">About me</h2>
         <div className='about-me-content'>
             <div className='about-me-pic'>
                 <img className='' src={picture} alt="Julien Matteï picture" />
