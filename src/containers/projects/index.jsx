@@ -1,6 +1,6 @@
 import './style.css'
 import Slider from '../../components/slider'
-import data from "../../datas/projects.json"
+import data from "../../datas/projects"
 import Work from '../../components/work'
 
 function Projects () {

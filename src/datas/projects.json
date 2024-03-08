@@ -3,9 +3,9 @@
         "id":"1",
         "name":"Portfolio Sophie Bluel Architect",
         "cover":[
-            "/assets/image/kasa-home.png",
-            "/assets/image/kasa-fichelogement.png",
-            "/assets/image/kasa-about.png"
+            "src/assets/image/kasa-home.png",
+            "src/assets/image/kasa-fichelogement.png",
+            "src/assets/image/kasa-about.png"
         ],
         "description":"Développement du portfolio de Sophie Bluel, une architecte, sous Javascript avec des appels API avec Node.js" ,
         "skills": ["Javascript", "Node.js"]
@@ -14,9 +14,9 @@
         "id":"2",
         "name":"Kasa",
         "cover":[
-            "src/assets/image/kasa-home.webp",
-            "src/assets/image/kasa-fichelogement.webp",
-            "src/assets/image/kasa-about.webp"
+            "https://github.com/julien-mattei/p12-Portfolio/blob/f230017cfd958ab45098b5bc4ecca420c21d5738/src/assets/image/kasa-home.webp",
+            "https://github.com/julien-mattei/p12-Portfolio/blob/f230017cfd958ab45098b5bc4ecca420c21d5738/src/assets/image/kasa-fichelogement.webp",
+            "https://github.com/julien-mattei/p12-Portfolio/blob/f230017cfd958ab45098b5bc4ecca420c21d5738/src/assets/image/kasa-about.webp"
         ],
         "description":"Développement d'un site de location immobilière sous Vite+React",
         "skills": ["React", "Vite", "Saas"]
