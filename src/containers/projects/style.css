@@ -1,3 +1,13 @@
 .projects-title {
     text-align: right;
 }
+.work-right{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25px;
+}
+.work-left {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}

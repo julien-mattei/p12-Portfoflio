@@ -1,0 +1,17 @@
+.slider {
+    position: relative;
+    height: 500px;
+    width: 600px;
+    border: 15px;
+}
+.slider-image {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+    position : absolute;
+    left :0;
+    top:0;
+}
+.slider-image-hidden {
+    display: none;
+}
