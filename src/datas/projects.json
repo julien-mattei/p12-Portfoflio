@@ -14,7 +14,7 @@
         "id":"2",
         "name":"Kasa",
         "cover":[
-            "/src/assets/image/kasa-home.webp",
+            "p12-Portfolio/src/assets/image/kasa-home.webp",
             "/src/assets/image/kasa-fichelogement.webp",
             "/src/assets/image/kasa-about.webp"
         ],
