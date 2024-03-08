@@ -1,5 +1,5 @@
 import './style.css'
-import logo from '../../assets/image/logo.webp'
+import logo from '../../../public/image/logo.webp'
 
 function Title () {
     return <div className='title'>

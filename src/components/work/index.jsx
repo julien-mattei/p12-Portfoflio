@@ -9,7 +9,7 @@ function Work ({data, name, description}) {
                     <h3>{name}</h3>
                     <span>{description}</span>
                 </div>
-                <div className='work skills'>
+                <div className='work-skills'>
                     {data.map((skills, idx) => 
                         <span key={idx}>{skills}</span>
                     )}

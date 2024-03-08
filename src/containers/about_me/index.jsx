@@ -1,5 +1,5 @@
 import './style.css'
-import picture from '../../assets/image/julien-mattei.webp'
+import picture from '../../../public/image/julien-mattei.webp'
 
 function AboutMe () {
     return <div className='about-me'>

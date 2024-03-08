@@ -14,9 +14,9 @@
         "id":"2",
         "name":"Kasa",
         "cover":[
-            "https://github.com/julien-mattei/p12-Portfolio/159d4f07556f7acc199602f70b5bbf77d8092989/src/assets/image/kasa-home.webp",
-            "../assets/image/kasa-fichelogement.webp",
-            "../assets/image/kasa-about.webp"
+            "image/kasa-home.webp",
+            "image/kasa-fichelogement.webp",
+            "image/kasa-about.webp"
         ],
         "description":"Développement d'un site de location immobilière sous Vite+React",
         "skills": ["React", "Vite", "Saas"]
