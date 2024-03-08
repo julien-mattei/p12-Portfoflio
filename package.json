@@ -1,6 +1,6 @@
 {
   "name": "p12-portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage":"http://julien-mattei.github.io/p12-Portfolio/",
