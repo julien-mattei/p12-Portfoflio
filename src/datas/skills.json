@@ -2,43 +2,43 @@
     {
         "id ": "1",
         "langage": "HTML",
-        "logo": "/image/html5-logo.webp",
+        "logo": "image/html5-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "2",
         "langage": "CSS",
-        "logo": "/image/CSS3-logo.webp",
+        "logo": "image/CSS3-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "3",
         "langage": "Sass",
-        "logo": "/image/Saas-logo.webp",
+        "logo": "image/Saas-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "4",
         "langage": "Javascript",
-        "logo": "/image/Javascript-logo.webp",
+        "logo": "image/Javascript-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "5",
         "langage": "React",
-        "logo": "/image/React-logo.webp",
+        "logo": "image/React-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "6",
         "langage": "Vite",
-        "logo": "/image/Vite-logo.webp",
+        "logo": "image/Vite-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "7",
         "langage": "Node.js",
-        "logo": "/image/Node.js-logo.webp",
+        "logo": "image/Node.js-logo.webp",
         "Type": "BackEnd"
     }
 ]
