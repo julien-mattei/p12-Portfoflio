@@ -11,7 +11,10 @@ function Work ({data, name, description}) {
                 </div>
                 <div className='work-skills'>
                     {data.map((skills, idx) => 
-                        <span key={idx}>{skills}</span>
+                        <div key={idx} className="work-skill-image">
+                            <img src={skills.logo} alt={skills.langage}  className="image-logo"/>
+                        </div>
+                        
                     )}
                 </div>
             </div>
