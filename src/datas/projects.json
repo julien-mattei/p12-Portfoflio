@@ -14,9 +14,9 @@
         "id":"2",
         "name":"Kasa",
         "cover":[
-            "p12-Portfolio/assets/image/kasa-home.webp",
-            "p12-Portfolio/assets/image/kasa-fichelogement.webp",
-            "p12-Portfolio/assets/image/kasa-about.webp"
+            "p12-Portfolio/src/assets/image/kasa-home.webp",
+            "p12-Portfolio/src/assets/image/kasa-fichelogement.webp",
+            "p12-Portfolio/src/assets/image/kasa-about.webp"
         ],
         "description":"Développement d'un site de location immobilière sous Vite+React",
         "skills": ["React", "Vite", "Saas"]
