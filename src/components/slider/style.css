@@ -2,7 +2,8 @@
     position: relative;
     width: 400px;
     height: 300px;
-    border-radius: 25px
+    border-radius: 25px;
+    
 }
 .slider-image {
     object-fit: cover;
@@ -14,4 +15,11 @@
 }
 .slider-image-hidden {
     display: none;
+}
+@media (max-width: 767.98px) {
+    .slider {
+        height: 280px;
+        width: 300px;
+        padding-left: 10px;
+    }
 }
