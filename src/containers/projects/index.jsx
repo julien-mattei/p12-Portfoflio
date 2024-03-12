@@ -18,8 +18,9 @@ function Projects () {
                     description={work.description} 
                     data={work.steps} 
                     skills={work.skills}
+                    link={work.link}
                 />
-                
+            
                 </div>
                 
             )}

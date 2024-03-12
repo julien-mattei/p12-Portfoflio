@@ -3,9 +3,9 @@ import Slider from "../slider"
 import "./style.css"
 
 
-function Work ({ data, name, description, skills}) {
+function Work ({ data, name, description, skills, link}) {
     return <div className="work-info">
-        <h3>{name}</h3>
+        <a href={link}><h3>{name}</h3></a>
         <p>{description}</p>
         <ul>
             {data.map((etape, idx) => 

@@ -21,7 +21,8 @@
             {
                 "langage" : "Node.js",
                 "logo" : "image/skills/Node.js-logo.webp"
-            } ]
+            } ],
+        "link" : "https://github.com/julien-mattei/Projet-6"
     },
     {
         "id":"2",
@@ -43,16 +44,18 @@
         "skills":  [{
             "langage" :"React",
             "logo" : "image/skills/React-logo.webp"
-        },
-        {
-            "langage" : "Vite",
-            "logo" : "image/skills/Vite-logo.webp"
-        },
-        {
-            "langage" : "Saas",
-            "logo" : "image/skills/Saas-logo.webp"
-        }
-     ]
+            },
+            {
+                "langage" : "Vite",
+                "logo" : "image/skills/Vite-logo.webp"
+            },
+            {
+                "langage" : "Saas",
+                "logo" : "image/skills/Saas-logo.webp"
+            }
+        ],
+        "link" : "https://github.com/julien-mattei/P8-Kasa"
+
     },
     {
         "id":"3",
@@ -85,6 +88,7 @@
             "langage" : "Redux",
             "logo" : "image/skills/Redux-logo.webp"
         }
-     ]
+     ],
+     "link" : "https://github.com/julien-mattei/P11-ArgentBank"
     }
 ]
