@@ -24,3 +24,13 @@ nav {
     background-color: #0d60c8;
     color: white;
 }
+
+@media (max-width: 767.98px) {
+    .header {
+        display: flex;
+        flex-direction: column;
+    }
+    .link-nav {
+        padding: 25px 15px
+    }
+}

@@ -7,8 +7,11 @@
     gap: 40px;
     padding: 10px 50px;
 }
-.works {
-    display: flex;
-    gap: 30px;
+
+@media (max-width: 767.98px) {
+    .projects-content {
+        padding: 10px;
+    }
 }
+
 

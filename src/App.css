@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Ledger&family=Nanum+Gothic+Coding&display=swap');
 
 body {
-  width: 1440px;
+  max-width: 1440px;
   color: #1C2024;
   margin: auto;
   font-family: "Nanum Gothic Coding", monospace;
@@ -20,5 +20,6 @@ main {
   flex-direction: column;
   gap: 50px;
 }
+
 
 
