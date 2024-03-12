@@ -4,7 +4,6 @@ import data from "../../datas/skills.json"
 
 function Skills () {
     const frontEnd = data.filter((skillFront) => skillFront.Type === "FrontEnd")
-    console.log(frontEnd)
     const backEnd = data.filter((skillBack) => skillBack.Type === "BackEnd")
     return <div className='skills'>
         <h2 id="skills">My Skills</h2>
@@ -18,7 +17,6 @@ function Skills () {
                         </div>
                         
                     )}
-                    
                 </div>
             </div>
             <div className='skills-list-back'>

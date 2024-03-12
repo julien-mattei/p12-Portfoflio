@@ -3,41 +3,87 @@
         "id":"1",
         "name":"Portfolio Sophie Bluel Architect",
         "cover":[
-            "image/SB-filtre.webp",
-            "image/SB-mode-admin.webp",
-            "image/SB-modal.webp",
-            "image/SB-ajout.webp"
+            "image/works/SB-filtre.webp",
+            "image/works/SB-mode-admin.webp",
+            "image/works/SB-modal.webp",
+            "image/works/SB-ajout.webp"
         ],
-        "description":"Développement du portfolio de Sophie Bluel, une architecte, sous Javascript avec des appels API avec Node.js" ,
+        "description":"Développement du portfolio de Sophie Bluel" ,
+        "steps" : [
+            "Développer le site en Javascript",
+            "Création d'un espace administrateur pour gérer les différents projets (ajout, suppression)",
+            "Mettre en place des liens avec l'API swagger"
+        ],
         "skills": [{
                 "langage" :"Javascript",
-                "logo" : "image/Javascript-logo.webp"
+                "logo" : "image/skills/Javascript-logo.webp"
             },
             {
                 "langage" : "Node.js",
-                "logo" : "image/Node.js-logo.webp"
+                "logo" : "image/skills/Node.js-logo.webp"
             } ]
     },
     {
         "id":"2",
         "name":"Kasa",
         "cover":[
-            "image/kasa-home.webp",
-            "image/kasa-fichelogement.webp",
-            "image/kasa-about.webp"
+            "image/works/kasa-home.webp",
+            "image/works/kasa-fichelogement.webp",
+            "image/works/kasa-about.webp"
         ],
-        "description":"Développement d'un site de location immobilière sous Vite+React",
+        "description":"Développement d'une application de location immobilière",
+        "steps" : [
+            "Développer l'application en React",
+            "Créer les différentes routes du site pour accéder aux fiches logements et à la page about",
+            "Créer les composants réutilisables de l'application",
+            "Créer un slider pour les photos dans les fiches logements",
+            "Créer les animations avec Saas"
+
+        ],
         "skills":  [{
             "langage" :"React",
-            "logo" : "image/React-logo.webp"
+            "logo" : "image/skills/React-logo.webp"
         },
         {
             "langage" : "Vite",
-            "logo" : "image/Vite-logo.webp"
+            "logo" : "image/skills/Vite-logo.webp"
         },
         {
             "langage" : "Saas",
-            "logo" : "image/Saas-logo.webp"
+            "logo" : "image/skills/Saas-logo.webp"
+        }
+     ]
+    },
+    {
+        "id":"3",
+        "name":"ArgentBank",
+        "cover":[
+            "image/works/argentbank-home.webp",
+            "image/works/argentbank-login.webp",
+            "image/works/argentbank-profile.webp"
+        ],
+        "description":"Développement d'une application de transaction bancaire",
+        "steps" : [
+            "Développer l'application avec React Redux",
+            "Mettre en place les appels API pour récupérer ou modifier des données dans la BDD",
+            "Créer les composants réutilisables en étudiants les maquettes en HTML ou sous format image fournies",
+            "Créer les Endpoints dans l'API swagger pour les transactions"
+        ],
+        "skills":  [{
+            "langage" :"React",
+            "logo" : "image/skills/React-logo.webp"
+        },
+        {
+            "langage" : "Vite",
+            "logo" : "image/skills/Vite-logo.webp"
+        },
+        {
+            "langage" : "Node.js",
+            "logo" : "image/skills/Node.js-logo.webp"
+        },
+        {
+            "langage" : "Redux",
+            "logo" : "image/skills/Redux-logo.webp"
         }
      ]
     }

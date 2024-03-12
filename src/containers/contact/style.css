@@ -1,3 +1,30 @@
 .contact-title {
     text-align: right;
 }
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px
+}
+.input-simple {
+    padding: 10px 50px;
+}
+.input-large{
+    padding: 100px 50px;
+}
+label {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+button {
+    padding: 20px 80px;
+    background-color: #A9DAED;
+    border: none;
+    font-size: 20px;
+}
+button:hover {
+    background-color: #0d60c8;
+    color: white;
+}

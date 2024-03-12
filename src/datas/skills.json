@@ -2,43 +2,49 @@
     {
         "id ": "1",
         "langage": "HTML",
-        "logo": "image/html5-logo.webp",
+        "logo": "image/skills/html5-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "2",
         "langage": "CSS",
-        "logo": "image/CSS3-logo.webp",
+        "logo": "image/skills/CSS3-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "3",
         "langage": "Sass",
-        "logo": "image/Saas-logo.webp",
+        "logo": "image/skills/Saas-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "4",
         "langage": "Javascript",
-        "logo": "image/Javascript-logo.webp",
+        "logo": "image/skills/Javascript-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "5",
         "langage": "React",
-        "logo": "image/React-logo.webp",
+        "logo": "image/skills/React-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "6",
         "langage": "Vite",
-        "logo": "image/Vite-logo.webp",
+        "logo": "image/skills/Vite-logo.webp",
         "Type": "FrontEnd"
     },
     {
         "id ": "7",
         "langage": "Node.js",
-        "logo": "image/Node.js-logo.webp",
+        "logo": "image/skills/Node.js-logo.webp",
         "Type": "BackEnd"
+    },
+    {
+        "id ": "8",
+        "langage": "Redux",
+        "logo": "image/skills/Redux-logo.webp",
+        "Type": "FrontEnd"
     }
 ]

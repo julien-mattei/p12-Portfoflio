@@ -1,13 +1,14 @@
 .projects-title {
     text-align: right;
 }
-.work-right{
+.projects-content{
     display: flex;
-    justify-content: space-between;
-    padding: 0 25px;
+    flex-direction: column;
+    gap: 40px;
+    padding: 10px 50px;
 }
-.work-left {
+.works {
     display: flex;
-    flex-direction: row-reverse;
-    justify-content: space-between;
+    gap: 30px;
 }
+

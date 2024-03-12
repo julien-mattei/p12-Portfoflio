@@ -1,13 +1,13 @@
 .slider {
     position: relative;
-    height: 500px;
-    width: 600px;
-    border: 15px;
+    width: 400px;
+    height: 300px;
+    border-radius: 25px
 }
 .slider-image {
-    object-fit: contain;
-    height: 100%;
-    width: 100%;
+    object-fit: cover;
+    height: 95%;
+    width: 95%;
     position : absolute;
     left :0;
     top:0;
